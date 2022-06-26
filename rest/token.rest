@@ -1,3 +1,5 @@
+//TEST
+
 @host = localhost:8080
 
 POST http://{{host}}/api/token HTTP/1.1

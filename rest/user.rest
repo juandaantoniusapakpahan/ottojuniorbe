@@ -4,9 +4,9 @@ POST http://{{host}}/api/user/register HTTP/1.1
 content-type: application/json
 
 {
-    "username": "juandaantonpa",
-    "email" : "juandaantonius08@gmail.com",
-    "password": "juandaanp29",
+    "username": "bambangsantoso",
+    "email" : "bambangsantoso112@gmail.com",
+    "password": "bangbangsantoso"
 }
 
 ###

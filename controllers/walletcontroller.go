@@ -27,5 +27,3 @@ func GetWallet(context *gin.Context) {
 	context.JSON(http.StatusOK, gin.H{"status": "Sucess", "code": http.StatusOK, "data": gin.H{"amount": wallet.Amount}})
 
 }
-
-//Makan nasi goreng

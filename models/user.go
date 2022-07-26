@@ -30,4 +30,5 @@ func (user *User) CheckPassword(providedPassword string) error {
 	return nil
 }
 
+//jangan banyak makangi
 //test

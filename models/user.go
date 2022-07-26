@@ -29,3 +29,5 @@ func (user *User) CheckPassword(providedPassword string) error {
 	}
 	return nil
 }
+
+//test
